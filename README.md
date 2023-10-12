@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![descr](https://iskylar.com/wp-content/uploads/2021/06/cake-php.jp)
+![descr](https://iskylar.com/wp-content/uploads/2021/06/cake-php.jpg)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiegoPy3)
 
